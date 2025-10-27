@@ -96,7 +96,7 @@ Try Vibbly now 👉 (https://vibbly-realtime-communication.onrender.com)
 ## ⚡ Installation & Setup
 
 **Clone the repository**
-- git clone https://github.com/ShalleySharma/vibbly-realtime-communication.git
+- git clone https://github.com/sachendrapatel4/vibbly-realtime-communication.git
 
 **Navigate to project folder**
 - cd vibbly  
